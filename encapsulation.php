@@ -1,4 +1,5 @@
 <?php 
+//this is for using git practice
 class TV {
 	
 	//public $model = 'Samsung';
