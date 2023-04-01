@@ -4,7 +4,8 @@
 
   	 	public $fname;
   	 	public $lname;
-  	 	public $salary; 
+  	 	public $salary;
+		public $dept;
 
   	 	function getfullname() {
 
